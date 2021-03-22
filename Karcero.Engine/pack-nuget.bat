@@ -1,1 +1,0 @@
-nuget pack Karcero.Engine.csproj -Prop Configuration=Release
